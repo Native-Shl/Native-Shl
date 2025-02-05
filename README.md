@@ -5,9 +5,9 @@
 - 📫 How to reach me Native School Tizi ouzou Google maps
 - Facebook Instagram Pinterest Tiktok 
 - 😄 Pronouns: ...Native 
-- ⚡ Fun fact: ...
-
-<!---
-Native-Shl/Native-Shl is a ✨ special English School an training coaching ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ Fun fact: ...Native-Shl/Native-Shl is a ✨ special English School an training coaching ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!---
+
